@@ -1,3 +1,5 @@
 # docker-app
 
-Docker circle ci & Digital Ocean deployment
+- Git pull from circle ci using docker container
+- Circle CI to docker hub push as a image
+- Deploy to digital ocean
